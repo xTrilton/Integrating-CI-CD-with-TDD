@@ -1,5 +1,5 @@
 {
-  "name": "CI with TDD",
+  "name": "TDD",
   "repository": {
     "type": "git",
     "url": "https://github.com/xTrilton/Integrating-CI-CD-with-TDD"
