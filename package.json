@@ -1,0 +1,16 @@
+{
+  "name": "CI with TDD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xTrilton/Integrating-CI-CD-with-TDD"
+  },
+  "description": "Simple demo showing how to integrate CI with TDD",
+  "author": "boemo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint appjs"
+  }
+}
