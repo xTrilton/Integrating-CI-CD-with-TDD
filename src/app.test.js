@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import ShoppingCartComponent from './ShoppingCartComponent';
+import ShoppingCartComponent from './app';
 
 describe('ShoppingCartComponent', () => {
   test('renders the component', () => {
