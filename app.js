@@ -1,3 +1,5 @@
+/* jshint esversion: 6 */
+
 import React, { useState } from 'react';
 import { Plus, Minus, ShoppingCart } from 'lucide-react';
 
