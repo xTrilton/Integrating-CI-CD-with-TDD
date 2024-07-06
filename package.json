@@ -9,8 +9,9 @@
   "version": "1.0.0",
   "devDependencies": {
     "jshint": "^2.8.0"
+    "@testing-library/jest-dom": "^5.16.5",
   },
   "scripts": {
-    "test": "./node_modules/jshint/bin/jshint app.js"
+    "test": "react-scripts test"
   }
 }
